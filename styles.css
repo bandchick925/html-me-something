@@ -1,0 +1,22 @@
+body {
+    padding: 0 15% 0 15%;
+}
+
+article {
+    background-color: dimgrey;
+}
+
+
+#head1 {
+    font-family: "Droid Sans";
+    font-size: larger;
+}
+
+p {
+    font-family: cursive;
+}
+
+img {
+    width: 150px;
+    margin-left: 40%;
+}
