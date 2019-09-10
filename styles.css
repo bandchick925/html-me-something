@@ -1,5 +1,6 @@
 body {
     padding: 0 15% 0 15%;
+    background-color: rebeccapurple;
 }
 
 article {
@@ -8,8 +9,9 @@ article {
 
 
 #head1 {
-    font-family: "Droid Sans";
+    font-family: Saab;
     font-size: larger;
+    ;
 }
 
 p {
